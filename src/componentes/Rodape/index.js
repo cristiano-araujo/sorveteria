@@ -1,8 +1,10 @@
+import './styles.css'
+
 export default function Rodape() {
     return(
         <footer>
             <div className="limitar-secao container-logo-informacoes">
-                <img src='assets/logo.png' alt="logomarca" />
+                <img src='../assets/logo.png' alt="logomarca" />
                 <div>
                     <h3>ENDEREÇO</h3>
                     <p>
